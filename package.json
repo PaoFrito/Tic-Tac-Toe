@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoFrito/Tic-Tac-Toe.git"
+  },
+  "author": "Henrique Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoFrito/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/PaoFrito/Tic-Tac-Toe#readme",
+  "dependencies": {
+    "dotenv": "^12.0.4",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
